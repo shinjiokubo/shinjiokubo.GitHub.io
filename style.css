@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: YuGothic, "游ゴシック", "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+  background-color: #CCC;
+  font-size: 16px;
+  
+}
+
+header {
+  background-image: url("typewriter.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 300px;
+}
+
+nav {
+  text-align: center;
+  background: #000000;
+}
+
+  nav ul li {
+    margin: 0 40px;
+  display: inline-block;
+  color: #FFFFFF;
+}
+
+nav ul li a {
+  font-weight: bold;
+}
+
+div{
+  text-align: center;
+}
+
+
+h1 {
+   color: #FF0000;
+   text-shadow: 2px 2px 2px #ffffff; 
+}
+
+h2 {
+  text-align: center
+}
+
+h3 {
+  text-align: center
+}
+p {
+  font-size: 12px;
+}
+
